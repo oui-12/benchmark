@@ -1,3 +1,6 @@
+
+[benchmark-arch.pdf](https://github.com/user-attachments/files/23832464/benchmark-arch.pdf)
+
 # REST Web Services Performance Benchmark
 
 Comprehensive performance benchmark comparing three REST API implementation approaches:
